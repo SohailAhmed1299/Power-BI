@@ -1,4 +1,4 @@
- # Project 1: Power-BI on Sales Super store
+ # Project 1: Power-BI on Sales SuperMarket
 
   * I collected sales data from Kaggle.
   * Imported the data into Power BI and started cleaning it, removing duplicates and fixing errors. 
@@ -17,3 +17,25 @@
 In the second Image we can see that interactivenness of the dashboard.
 
 ![Second](https://user-images.githubusercontent.com/90980952/224829851-6abc7612-487e-4897-a9c5-1d9a4075d705.JPG))
+
+
+
+ # Project 2: Power-BI on Sales Super store
+  
+ * To create a project on Power BI that focused on percentage change in sales data, I first gathered the necessary data from various sources, including sales reports   
+   and customer purchase history. The data was then imported into Power BI, where I began the cleaning process to ensure that the data was accurate and consistent.
+ * Next, I used various DAX formulas and measures to calculate the percentage change in sales data for the previous period. This involved creating calculations that        compared the current period's sales data to the previous period's sales data, and then presenting that information in a clear and easy-to-understand format.
+ * Finally, I used the cleaned and calculated data to create an interactive dashboard that allowed users to easily explore and analyze the sales data. This included   
+   creating visualizations such as charts and graphs that could be filtered and manipulated to provide a more in-depth understanding of the sales data.
+Overall, the project involved a combination of data cleaning, DAX calculations, and dashboard creation to present sales data in a way that was both informative and user-friendly.
+
+#Find the visulaise report 
+
+![Projects2](https://user-images.githubusercontent.com/90980952/224836043-981bff95-d314-4ca7-8947-e0b52f6d3d71.JPG)
+
+Filtering out elements using slicer
+
+![Projects2](https://user-images.githubusercontent.com/90980952/224836178-be554a43-4dee-4add-8a8b-b2cd62733c10.JPG)
+
+
+
