@@ -31,11 +31,13 @@ Overall, the project involved a combination of data cleaning, DAX calculations, 
 
 #Find the visulaise report 
 
-![Projects2](https://user-images.githubusercontent.com/90980952/224836043-981bff95-d314-4ca7-8947-e0b52f6d3d71.JPG)
+![Projects](https://user-images.githubusercontent.com/90980952/224837938-c8f7f290-606d-4e1d-899c-b687d18ae6e6.JPG)
+
 
 Filtering out elements using slicer
 
-![Projects2](https://user-images.githubusercontent.com/90980952/224836178-be554a43-4dee-4add-8a8b-b2cd62733c10.JPG)
+
+![Projects2](https://user-images.githubusercontent.com/90980952/224837971-deb742e1-7e12-4abb-908b-8a95f83de3e1.JPG)
 
 
 
