@@ -9,4 +9,4 @@
  *Created the interactive dashboard for my colleagues, who were impressed with the level of detail and interactivity of the dashboard.
  *Overall, the project gave me a deeper understanding of the sales data and provided the company with a valuable tool to make informed decisions.
 
-#Find the visulaise report (First Power Bi project 2.pdf,First Power Bi project 2.pdf)
+#Find the visulaise report (First Power Bi project.pdf,First Power Bi project 2.pdf)
