@@ -41,3 +41,62 @@ Filtering out elements using slicer
 
 
 
+# Project 3: Revenue Comparison
+
+In a recent Power BI project, I created a revenue comparison report that involved using various measures and DAX formulas to analyze and visualize sales data. I created a measure to calculate previous period sales and another measure to calculate the percentage change over the last period, which helped stakeholders understand how the business was performing over time. Additionally, I ranked the cities with the most sales using the RANKX function, which allowed stakeholders to easily identify the top-performing cities.
+
+To make the visualization more appealing and understandable, I used tooltips that provided additional information about each data point when users hovered over them. This feature enhanced the user experience and allowed stakeholders to explore the data more easily.
+
+ * Sales were highest in the Midwest region, followed by the West and East regions.
+ * Sales increased by almost 5% over the previous period, indicating positive growth for the business.
+ * The top-performing cities were Hyderabad, Pune, and New delhi, which accounted for 40% of total sales.
+
+Overall, this project demonstrated the power of Power BI in analyzing and visualizing sales data. By using various measures, DAX formulas, and visualization techniques, I was able to provide valuable insights for the project to make a drive data-driven decision-making.
+
+In total I made two sheet on Revenue comparison onw with the City being the primary zone and second sheet product being the primary part.
+
+In first sheet we can infer that how trends are showing in the cities.
+
+
+![Capture](https://user-images.githubusercontent.com/90980952/224986653-5bf07353-5ef7-485f-8bea-f5a0ff49ee79.JPG)
+
+
+I used various tooltips to sjowcase the changes in more elobrate way so that the visuals can be more understandable
+
+
+![Tooltip](https://user-images.githubusercontent.com/90980952/224986943-dd3bfdd6-7e9b-414b-97a1-de8814379148.JPG)
+
+
+Visulaiztion looking while integarated with the tooltips
+
+
+![Slide1](https://user-images.githubusercontent.com/90980952/224987057-be5dbabe-9738-4b4f-b092-1525c8095074.JPG)
+
+
+I used various measures adn DAX to detemine and create more understanble visulaiztion of the data.
+
+
+![Capture3](https://user-images.githubusercontent.com/90980952/224987525-698d444e-c71b-445c-bd1b-21ca795ceffc.JPG)
+
+
+In this measures we are filtering out the five cities with most contribution by sales using measures and DAX
+
+![Capture4](https://user-images.githubusercontent.com/90980952/224987718-75668321-6288-441b-b4bd-5fc7101b3cb1.JPG)
+
+
+In the second sheet we are seeing the Product Performance
+
+
+![Capture2](https://user-images.githubusercontent.com/90980952/224988964-fecdd48e-0f5b-4611-81be-7a69c657b3fb.JPG)
+
+
+Visulaiztion with the tootltips 
+
+
+![Slide2](https://user-images.githubusercontent.com/90980952/224989114-bb67866b-2f2f-412e-9a6f-4bb02413e26c.JPG)
+
+
+
+
+
+
